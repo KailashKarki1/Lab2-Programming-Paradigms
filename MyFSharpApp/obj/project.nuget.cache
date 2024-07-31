@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Ow7/o1+DNQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sandi\\OneDrive\\Desktop\\programming paradigms lab2\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandi\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
